@@ -1,5 +1,6 @@
 # azure-function-vscode-create-deploy
-Create a Azure Function Using VSCode in Python and Deploy
+Create a Azure Function Using VSCode in Python and Deploy 
+Install azure-cli-2.62.0-x64
 
 1. Open VS Code and Go to Extensions
 2. Install Azure Account, Azure Resource and Azure Function
